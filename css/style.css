@@ -1,0 +1,73 @@
+html {
+    font-family: 'Lobster', cursive;
+}
+
+.top-container {
+    background-color: #1c4b82;
+    height: 600px;
+    color: #dd6b4d;
+}
+
+.cloud-wrapper {
+    height: 600px;
+    width: 600px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cloud {
+    position: absolute;
+}
+
+.cloud1 {
+    top: 25%;
+    left: 30%;
+}
+
+.cloud2 {
+    top: 60%;
+    left: 0%;
+}
+
+.cloud3 {
+    top: 42%;
+    left: 65%;
+}
+
+.mountain {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.middle-container {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #dae1e7;
+    text-align: center;
+}
+
+.middle-container img {
+    width: 150px;
+    padding: 2rem 0;
+}
+
+.bottom-container {
+    width: 75%;
+    margin: 0 auto;
+    background-color: #dae1e7;
+    text-align: center;
+}
+
+.bottom-container img {
+    width: 150px;
+    padding: 2rem 0;
+}
+
+span {
+    text-decoration: underline;
+}
+
+
+
